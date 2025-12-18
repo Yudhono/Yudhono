@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Yudhono 👋</h1>
 
-<h3 align="center">Full Stack Software Engineer | Programming Educator | Tech for Social Impact</h3>
+<h3 align="center">Software Engineer | Programming Educator | Tech for Social Impact</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yudhono&label=Profile%20views&color=0e75b6&style=flat" alt="yudhono" />
@@ -10,16 +10,15 @@
 
 ## 👨‍💻 About Me
 
-**Full Stack Software Engineer** with proven expertise in building scalable, production-ready applications. Currently delivering innovative solutions at a startup company while empowering the next generation of developers through programming education.
+**Software Engineer** with proven expertise in building scalable, production-ready applications. Currently delivering innovative solutions at a startup company while empowering the next generation of developers through programming education.
 
 - 💼 **Full-time Software Engineer** at a dynamic startup, developing and maintaining cutting-edge web applications
-- 👨‍🏫 **Programming Educator** teaching HTML, CSS, and JavaScript, Python transforming students into skilled developers
+- 👨‍🏫 **Programming Educator** teaching web development and programming fundamentals, transforming students into skilled developers
 - 🌟 **Tech Lead** for Save Street Child Malang NGO, successfully delivered comprehensive platform suite:
   - Profile showcase and public-facing website
   - Content Management System (CMS)
   - Collaboration management system
   - Presence/attendance tracking
-  - Community engagement tools
 
 ---
 
@@ -39,7 +38,7 @@ A comprehensive platform built for managing and supporting the Save Street Child
 
 ### 📋 [SSCM Presences Web App](https://sscm-presences-webapp.vercel.app/)
 
-An attendance and presence management platform designed for the Save Street Child Malang community, streamlining member tracking and engagement.
+An attendance and presence management platform designed for the Save Street Child Malang community, streamlining volunteer tracking and engagement.
 
 **Tech Stack:** Modern Web Technologies, Database Management
 
