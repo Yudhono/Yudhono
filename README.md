@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Yudhono 👋</h1>
 
-<h3 align="center">Software Engineer | Full Stack Developer | Community Builder</h3>
+<h3 align="center">Full Stack Software Engineer | Programming Educator | Tech for Social Impact</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yudhono&label=Profile%20views&color=0e75b6&style=flat" alt="yudhono" />
@@ -10,51 +10,44 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Software Engineer** dedicated to building impactful applications and contributing to meaningful projects. I combine technical expertise with a commitment to social good, currently managing platforms for NGO communities.
+**Full Stack Software Engineer** with proven expertise in building scalable, production-ready applications. Currently delivering innovative solutions at a startup company while empowering the next generation of developers through programming education.
 
-- 🔭 I'm currently working on **community platforms for Save Street Child Malang**
-- 🌱 Building scalable web applications with modern tech stacks
-- 💡 Passionate about creating solutions that make a difference
-- 🎯 Focus on clean code, best practices, and user experience
+- 💼 **Full-time Software Engineer** at a dynamic startup, developing and maintaining cutting-edge web applications
+- 👨‍🏫 **Programming Educator** teaching HTML, CSS, and JavaScript, Python transforming students into skilled developers
+- 🌟 **Tech Lead** for Save Street Child Malang NGO, successfully delivered comprehensive platform suite:
+  - Profile showcase and public-facing website
+  - Content Management System (CMS)
+  - Collaboration management system
+  - Presence/attendance tracking
+  - Community engagement tools
 
 ---
 
 ## 🛠️ Tech Stack & Skills
 
-### Frontend Development
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### UI Frameworks & Libraries
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-![React Admin](https://img.shields.io/badge/React_Admin-000000?style=for-the-badge&logo=react&logoColor=white)
-
-### Backend & APIs
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### Tools & Version Control
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white) ![React Admin](https://img.shields.io/badge/React_Admin-000000?style=for-the-badge&logo=react&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🌟 [Save Street Child Malang Platform](https://github.com/Yudhono/laravel-react-example)
+### 🌟 [Save Street Child Malang Platform](http://savestreetchildmalang.web.id/)
+
 A comprehensive platform built for managing and supporting the Save Street Child Malang NGO community. This project demonstrates full-stack development capabilities and commitment to social impact.
 
 **Tech Stack:** Laravel, React, Full Stack Architecture
 
-### 📋 [SSCM Presences Web App](https://github.com/Yudhono/sscm-presences-webapp)
+### 📋 [SSCM Presences Web App](https://sscm-presences-webapp.vercel.app/)
+
 An attendance and presence management platform designed for the Save Street Child Malang community, streamlining member tracking and engagement.
 
 **Tech Stack:** Modern Web Technologies, Database Management
+
+### 📚 [Web Learning Platform](https://weblearning.my.id/)
+
+An interactive platform for learning HTML, CSS, and JavaScript, developed for teaching purposes. Currently this project is still being developed and improved.
+
+**Tech Stack:** HTML, CSS, JavaScript
 
 ---
 
@@ -81,6 +74,9 @@ I'm always open to interesting conversations and collaboration opportunities. Fe
 <p align="center">
   <a href="https://github.com/Yudhono">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/yudhono-witanto-a5601a201/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
